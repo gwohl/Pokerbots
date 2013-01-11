@@ -1,0 +1,13 @@
+Connecting to localhost:3000
+NEWGAME SmarterAllInBot AllInBot 400 2 1000 20.000000
+CHECK
+
+NEWHAND 1 true Td Js 4d 0 0 20.000000
+Traceback (most recent call last):
+  File "Player.py", line 83, in <module>
+    bot.run(s)
+  File "Player.py", line 60, in run
+    action = BS.decideAction()
+  File "/Users/willgrathwohl/Dropbox/pokerbots/SmarterAllInBot/BotState.py", line 181, in decideAction
+    semiAIB(self.hand)
+NameError: global name 'semiAIB' is not defined

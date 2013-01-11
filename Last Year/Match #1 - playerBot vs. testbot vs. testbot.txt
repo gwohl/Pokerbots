@@ -1,0 +1,1570 @@
+6.S912 MIT Pokerbots - playerBot vs. testbot vs. testbot
+Hand #1
+Seat 1 (Button): playerBot3000 3
+Seat 2 (SB): testbot3001 -1
+Seat 3 (BB): testbot3002 -2
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [9c 6d]
+Dealt to testbot3002 [5h 7s]
+Dealt to playerBot3000 [8d Ad]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [Qc 8s Jd]
+testbot3002 checks
+playerBot3000 checks
+*** TURN *** [Qc 8s Jd] [5c]
+testbot3002 checks
+playerBot3000 checks
+*** RIVER *** [Qc 8s Jd 5c] [6c]
+testbot3002 checks
+playerBot3000 checks
+playerBot3000 shows 8d Ad (Pair)
+testbot3002 shows 5h 7s (Pair)
+playerBot3000 wins the pot (5)
+
+Hand #2
+Seat 1 (Button): testbot3002 -2
+Seat 2 (SB): playerBot3000 5
+Seat 3 (BB): testbot3001 -3
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2c 9c]
+Dealt to testbot3001 [Ah 4h]
+Dealt to testbot3002 [As 6d]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [5s 7d 9h]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [5s 7d 9h] [4s]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [5s 7d 9h 4s] [Td]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 2c 9c (Pair)
+testbot3001 shows Ah 4h (Pair)
+playerBot3000 wins the pot (4)
+
+Hand #3
+Seat 1 (Button): testbot3001 -3
+Seat 2 (SB): testbot3002 -3
+Seat 3 (BB): playerBot3000 6
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [4s 9h]
+Dealt to playerBot3000 [Jh 3h]
+Dealt to testbot3001 [Kh 9c]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #4
+Seat 1 (Button): playerBot3000 6
+Seat 2 (SB): testbot3001 -4
+Seat 3 (BB): testbot3002 -2
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [8h 5d]
+Dealt to testbot3002 [2s 2h]
+Dealt to playerBot3000 [8s 7d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #5
+Seat 1 (Button): testbot3002 -2
+Seat 2 (SB): playerBot3000 8
+Seat 3 (BB): testbot3001 -6
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Kh Jd]
+Dealt to testbot3001 [8d Kd]
+Dealt to testbot3002 [Ks 2s]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #6
+Seat 1 (Button): testbot3001 -6
+Seat 2 (SB): testbot3002 -3
+Seat 3 (BB): playerBot3000 9
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Qc 6d]
+Dealt to playerBot3000 [Qd Qh]
+Dealt to testbot3001 [Ad 9c]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #7
+Seat 1 (Button): playerBot3000 12
+Seat 2 (SB): testbot3001 -7
+Seat 3 (BB): testbot3002 -5
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [2d 6s]
+Dealt to testbot3002 [Qh 2s]
+Dealt to playerBot3000 [5d 5s]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [8s 2c 7c]
+testbot3002 checks
+playerBot3000 checks
+*** TURN *** [8s 2c 7c] [Tc]
+testbot3002 checks
+playerBot3000 checks
+*** RIVER *** [8s 2c 7c Tc] [3h]
+testbot3002 checks
+playerBot3000 checks
+playerBot3000 shows 5d 5s (Pair)
+testbot3002 shows Qh 2s (Pair)
+playerBot3000 wins the pot (5)
+
+Hand #8
+Seat 1 (Button): testbot3002 -5
+Seat 2 (SB): playerBot3000 14
+Seat 3 (BB): testbot3001 -9
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Qh 2d]
+Dealt to testbot3001 [2c 9h]
+Dealt to testbot3002 [7d Qs]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [4h Ac Ts]
+playerBot3000 bets 23
+testbot3001 folds
+Uncalled bet of 23 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #9
+Seat 1 (Button): testbot3001 -9
+Seat 2 (SB): testbot3002 -6
+Seat 3 (BB): playerBot3000 15
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [8d 2d]
+Dealt to playerBot3000 [7c 5h]
+Dealt to testbot3001 [8c Ks]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #10
+Seat 1 (Button): playerBot3000 15
+Seat 2 (SB): testbot3001 -10
+Seat 3 (BB): testbot3002 -5
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [9h Jh]
+Dealt to testbot3002 [Jc Qh]
+Dealt to playerBot3000 [Qc 5d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #11
+Seat 1 (Button): testbot3002 -5
+Seat 2 (SB): playerBot3000 17
+Seat 3 (BB): testbot3001 -12
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [6h 7c]
+Dealt to testbot3001 [6s 9d]
+Dealt to testbot3002 [As Qh]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [5h Js 4h]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [5h Js 4h] [3s]
+playerBot3000 bets 23
+testbot3001 folds
+Uncalled bet of 23 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #12
+Seat 1 (Button): testbot3001 -12
+Seat 2 (SB): testbot3002 -6
+Seat 3 (BB): playerBot3000 18
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Qh Qc]
+Dealt to playerBot3000 [2h 2s]
+Dealt to testbot3001 [2d Kc]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #13
+Seat 1 (Button): playerBot3000 21
+Seat 2 (SB): testbot3001 -13
+Seat 3 (BB): testbot3002 -8
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Ad 5h]
+Dealt to testbot3002 [9h Ah]
+Dealt to playerBot3000 [Qh Js]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [Jd 3h 7d]
+testbot3002 checks
+playerBot3000 bets 3
+testbot3002 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #14
+Seat 1 (Button): testbot3002 -8
+Seat 2 (SB): playerBot3000 23
+Seat 3 (BB): testbot3001 -15
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2s Kd]
+Dealt to testbot3001 [4s Js]
+Dealt to testbot3002 [5d Qs]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #15
+Seat 1 (Button): testbot3001 -15
+Seat 2 (SB): testbot3002 -9
+Seat 3 (BB): playerBot3000 24
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Tc Kh]
+Dealt to playerBot3000 [7s Jh]
+Dealt to testbot3001 [Ks Qc]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #16
+Seat 1 (Button): playerBot3000 27
+Seat 2 (SB): testbot3001 -16
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Qh 2c]
+Dealt to testbot3002 [6h 2s]
+Dealt to playerBot3000 [Qs Js]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [4c 5d 2h]
+testbot3002 checks
+playerBot3000 checks
+*** TURN *** [4c 5d 2h] [Qc]
+testbot3002 checks
+playerBot3000 bets 8
+testbot3002 folds
+Uncalled bet of 8 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #17
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 29
+Seat 3 (BB): testbot3001 -18
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [3h 6h]
+Dealt to testbot3001 [Kc 8s]
+Dealt to testbot3002 [Ah Kd]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [6d 5s 9d]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [6d 5s 9d] [9s]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [6d 5s 9d 9s] [3c]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 3h 6h (Two Pair)
+testbot3001 shows Kc 8s (Pair)
+playerBot3000 wins the pot (4)
+
+Hand #18
+Seat 1 (Button): testbot3001 -18
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 30
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Kh 3s]
+Dealt to playerBot3000 [3d 4c]
+Dealt to testbot3001 [Qd 9s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #19
+Seat 1 (Button): playerBot3000 30
+Seat 2 (SB): testbot3001 -19
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [9d Qd]
+Dealt to testbot3002 [4h Kc]
+Dealt to playerBot3000 [7c Qh]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #20
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 32
+Seat 3 (BB): testbot3001 -21
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [5s 4s]
+Dealt to testbot3001 [Kh 8s]
+Dealt to testbot3002 [9c Kd]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Qs 3s 5d]
+playerBot3000 bets 19
+testbot3001 folds
+Uncalled bet of 19 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #21
+Seat 1 (Button): testbot3001 -21
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 33
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [As 9d]
+Dealt to playerBot3000 [9c Jd]
+Dealt to testbot3001 [Ac Kd]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #22
+Seat 1 (Button): playerBot3000 33
+Seat 2 (SB): testbot3001 -22
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [9h 8d]
+Dealt to testbot3002 [As 5s]
+Dealt to playerBot3000 [Th 5c]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #23
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 31
+Seat 3 (BB): testbot3001 -20
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2h 3d]
+Dealt to testbot3001 [Ah 7d]
+Dealt to testbot3002 [5s 6c]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Qc Jc 8c]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Qc Jc 8c] [Qs]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [Qc Jc 8c Qs] [5c]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 2h 3d (Pair)
+testbot3001 shows Ah 7d (Pair)
+testbot3001 wins the pot (4)
+
+Hand #24
+Seat 1 (Button): testbot3001 -20
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 32
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [5d Jd]
+Dealt to playerBot3000 [6h As]
+Dealt to testbot3001 [7d Ah]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #25
+Seat 1 (Button): playerBot3000 32
+Seat 2 (SB): testbot3001 -21
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Kh Th]
+Dealt to testbot3002 [7s Qs]
+Dealt to playerBot3000 [6s 4h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #26
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 34
+Seat 3 (BB): testbot3001 -23
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2d 9h]
+Dealt to testbot3001 [5h 3h]
+Dealt to testbot3002 [Ah Td]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Th Jc Qh]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Th Jc Qh] [8d]
+playerBot3000 bets 7
+testbot3001 folds
+Uncalled bet of 7 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #27
+Seat 1 (Button): testbot3001 -23
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 35
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [8h Kd]
+Dealt to playerBot3000 [Kc 4h]
+Dealt to testbot3001 [7h Jd]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #28
+Seat 1 (Button): playerBot3000 35
+Seat 2 (SB): testbot3001 -24
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Td Jd]
+Dealt to testbot3002 [8h 7d]
+Dealt to playerBot3000 [8c Ts]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #29
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 37
+Seat 3 (BB): testbot3001 -26
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Td Ad]
+Dealt to testbot3001 [Ts 4s]
+Dealt to testbot3002 [3d 6d]
+testbot3002 folds
+playerBot3000 raises to 6
+testbot3001 folds
+Uncalled bet of 4 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #30
+Seat 1 (Button): testbot3001 -26
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 38
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jc Td]
+Dealt to playerBot3000 [5s 2s]
+Dealt to testbot3001 [3s 5h]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #31
+Seat 1 (Button): playerBot3000 38
+Seat 2 (SB): testbot3001 -27
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [2c 7c]
+Dealt to testbot3002 [4h 3d]
+Dealt to playerBot3000 [Th 2h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #32
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 40
+Seat 3 (BB): testbot3001 -29
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [As Qd]
+Dealt to testbot3001 [5c Th]
+Dealt to testbot3002 [Tc 7d]
+testbot3002 folds
+playerBot3000 raises to 6
+testbot3001 folds
+Uncalled bet of 4 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #33
+Seat 1 (Button): testbot3001 -29
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 41
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [4h 2h]
+Dealt to playerBot3000 [9d 7d]
+Dealt to testbot3001 [Jh 8s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #34
+Seat 1 (Button): playerBot3000 41
+Seat 2 (SB): testbot3001 -30
+Seat 3 (BB): testbot3002 -11
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Ah 2s]
+Dealt to testbot3002 [8d Ad]
+Dealt to playerBot3000 [2h 6d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #35
+Seat 1 (Button): testbot3002 -11
+Seat 2 (SB): playerBot3000 39
+Seat 3 (BB): testbot3001 -28
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [8c 6h]
+Dealt to testbot3001 [As 5s]
+Dealt to testbot3002 [4s Qs]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Jd 2c Tc]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Jd 2c Tc] [3h]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [Jd 2c Tc 3h] [5h]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 8c 6h (High Card)
+testbot3001 shows As 5s (Pair)
+testbot3001 wins the pot (4)
+
+Hand #36
+Seat 1 (Button): testbot3001 -28
+Seat 2 (SB): testbot3002 -12
+Seat 3 (BB): playerBot3000 40
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [6s 8d]
+Dealt to playerBot3000 [Ac 6c]
+Dealt to testbot3001 [Ts 6d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #37
+Seat 1 (Button): playerBot3000 43
+Seat 2 (SB): testbot3001 -29
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [As 8s]
+Dealt to testbot3002 [7s Ac]
+Dealt to playerBot3000 [Qs Kd]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [6h Kh 2d]
+testbot3002 checks
+playerBot3000 bets 10
+testbot3002 folds
+Uncalled bet of 10 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #38
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 45
+Seat 3 (BB): testbot3001 -31
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2s 8h]
+Dealt to testbot3001 [3c Qh]
+Dealt to testbot3002 [5h 4c]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Ac 4d 8d]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Ac 4d 8d] [9h]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [Ac 4d 8d 9h] [Js]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 2s 8h (Pair)
+testbot3001 shows 3c Qh (High Card)
+playerBot3000 wins the pot (4)
+
+Hand #39
+Seat 1 (Button): testbot3001 -31
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 46
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [8h Qd]
+Dealt to playerBot3000 [9s Ac]
+Dealt to testbot3001 [Ad Qh]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #40
+Seat 1 (Button): playerBot3000 46
+Seat 2 (SB): testbot3001 -32
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [4h 9h]
+Dealt to testbot3002 [Qh Jh]
+Dealt to playerBot3000 [Ah 6d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #41
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 48
+Seat 3 (BB): testbot3001 -34
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [4c 6d]
+Dealt to testbot3001 [9s 3s]
+Dealt to testbot3002 [2c 7d]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [6c Ac 4d]
+playerBot3000 bets 6
+testbot3001 folds
+Uncalled bet of 6 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #42
+Seat 1 (Button): testbot3001 -34
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 49
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [5h 8h]
+Dealt to playerBot3000 [4h Jc]
+Dealt to testbot3001 [9d Tc]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #43
+Seat 1 (Button): playerBot3000 49
+Seat 2 (SB): testbot3001 -35
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [3d 9c]
+Dealt to testbot3002 [Ac Qd]
+Dealt to playerBot3000 [Ks 4h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #44
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 47
+Seat 3 (BB): testbot3001 -33
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [3h 8d]
+Dealt to testbot3001 [4d 9h]
+Dealt to testbot3002 [7d 7s]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [9s Ts Ad]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [9s Ts Ad] [5h]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [9s Ts Ad 5h] [3d]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 3h 8d (Pair)
+testbot3001 shows 4d 9h (Pair)
+testbot3001 wins the pot (4)
+
+Hand #45
+Seat 1 (Button): testbot3001 -33
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 48
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jc 5c]
+Dealt to playerBot3000 [2h Qh]
+Dealt to testbot3001 [3d 8s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #46
+Seat 1 (Button): playerBot3000 48
+Seat 2 (SB): testbot3001 -34
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Qs 9c]
+Dealt to testbot3002 [8d 4d]
+Dealt to playerBot3000 [6d Qd]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #47
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 50
+Seat 3 (BB): testbot3001 -36
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Jd 9h]
+Dealt to testbot3001 [6h As]
+Dealt to testbot3002 [Td Kc]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #48
+Seat 1 (Button): testbot3001 -36
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 51
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Th Ac]
+Dealt to playerBot3000 [4h Ah]
+Dealt to testbot3001 [Ad 6s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #49
+Seat 1 (Button): playerBot3000 51
+Seat 2 (SB): testbot3001 -37
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [2s 9c]
+Dealt to testbot3002 [Kc Th]
+Dealt to playerBot3000 [6h 4h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #50
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 53
+Seat 3 (BB): testbot3001 -39
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [8s Qc]
+Dealt to testbot3001 [9h 7c]
+Dealt to testbot3002 [5c As]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #51
+Seat 1 (Button): testbot3001 -39
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 54
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Td 2h]
+Dealt to playerBot3000 [9s Kc]
+Dealt to testbot3001 [Ts Ad]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #52
+Seat 1 (Button): playerBot3000 54
+Seat 2 (SB): testbot3001 -40
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [2d 8h]
+Dealt to testbot3002 [Qc 7d]
+Dealt to playerBot3000 [Tc 6s]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #53
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 52
+Seat 3 (BB): testbot3001 -38
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [9d 6c]
+Dealt to testbot3001 [Kc 5c]
+Dealt to testbot3002 [As 4d]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Qh 7d Kh]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Qh 7d Kh] [3s]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [Qh 7d Kh 3s] [8d]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 9d 6c (High Card)
+testbot3001 shows Kc 5c (Pair)
+testbot3001 wins the pot (4)
+
+Hand #54
+Seat 1 (Button): testbot3001 -38
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 53
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [6h 7c]
+Dealt to playerBot3000 [2d Qh]
+Dealt to testbot3001 [5h 7h]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #55
+Seat 1 (Button): playerBot3000 53
+Seat 2 (SB): testbot3001 -39
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Kh Jc]
+Dealt to testbot3002 [6c 6s]
+Dealt to playerBot3000 [2s Td]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #56
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 55
+Seat 3 (BB): testbot3001 -41
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Jd Ah]
+Dealt to testbot3001 [5c Kd]
+Dealt to testbot3002 [Tc 3h]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #57
+Seat 1 (Button): testbot3001 -41
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 56
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [9h 7s]
+Dealt to playerBot3000 [4s 6s]
+Dealt to testbot3001 [7d 2d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #58
+Seat 1 (Button): playerBot3000 56
+Seat 2 (SB): testbot3001 -42
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [3c Ac]
+Dealt to testbot3002 [Ah 3h]
+Dealt to playerBot3000 [8c Js]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #59
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 58
+Seat 3 (BB): testbot3001 -44
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Th 3h]
+Dealt to testbot3001 [7h 9h]
+Dealt to testbot3002 [5s Jd]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Td 3s Ts]
+playerBot3000 bets 16
+testbot3001 folds
+Uncalled bet of 16 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #60
+Seat 1 (Button): testbot3001 -44
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 59
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [2s 4h]
+Dealt to playerBot3000 [4d 8h]
+Dealt to testbot3001 [Tc Qs]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #61
+Seat 1 (Button): playerBot3000 59
+Seat 2 (SB): testbot3001 -45
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [7h 3h]
+Dealt to testbot3002 [2c Kc]
+Dealt to playerBot3000 [Qs 8s]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #62
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 61
+Seat 3 (BB): testbot3001 -47
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2c Kd]
+Dealt to testbot3001 [Ad Th]
+Dealt to testbot3002 [Jc Qh]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #63
+Seat 1 (Button): testbot3001 -47
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 62
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [2h 5h]
+Dealt to playerBot3000 [6s 4c]
+Dealt to testbot3001 [2s 9s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #64
+Seat 1 (Button): playerBot3000 62
+Seat 2 (SB): testbot3001 -48
+Seat 3 (BB): testbot3002 -14
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [2s 5c]
+Dealt to testbot3002 [Ac Qs]
+Dealt to playerBot3000 [Td 2h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #65
+Seat 1 (Button): testbot3002 -14
+Seat 2 (SB): playerBot3000 64
+Seat 3 (BB): testbot3001 -50
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Th Ah]
+Dealt to testbot3001 [7h 3c]
+Dealt to testbot3002 [6d 2h]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #66
+Seat 1 (Button): testbot3001 -50
+Seat 2 (SB): testbot3002 -15
+Seat 3 (BB): playerBot3000 65
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Qh 5h]
+Dealt to playerBot3000 [Js 2h]
+Dealt to testbot3001 [Qd Qc]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #67
+Seat 1 (Button): playerBot3000 68
+Seat 2 (SB): testbot3001 -51
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Ah 4d]
+Dealt to testbot3002 [Ts 6c]
+Dealt to playerBot3000 [Kd Kh]
+playerBot3000 raises to 5
+testbot3001 folds
+testbot3002 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #68
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 66
+Seat 3 (BB): testbot3001 -49
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [9c 7c]
+Dealt to testbot3001 [8d Ts]
+Dealt to testbot3002 [2d Kd]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [Qc 4s 4h]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [Qc 4s 4h] [Ad]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [Qc 4s 4h Ad] [6d]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 9c 7c (Pair)
+testbot3001 shows 8d Ts (Pair)
+testbot3001 wins the pot (4)
+
+Hand #69
+Seat 1 (Button): testbot3001 -49
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 67
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jc 2s]
+Dealt to playerBot3000 [4s As]
+Dealt to testbot3001 [Th 8h]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #70
+Seat 1 (Button): playerBot3000 67
+Seat 2 (SB): testbot3001 -50
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [3d Qc]
+Dealt to testbot3002 [8d Ac]
+Dealt to playerBot3000 [8h 2h]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #71
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 69
+Seat 3 (BB): testbot3001 -52
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [9h 5h]
+Dealt to testbot3001 [4s Kd]
+Dealt to testbot3002 [Qs 2c]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [9d 6s Jc]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [9d 6s Jc] [4c]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [9d 6s Jc 4c] [Ts]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 9h 5h (Pair)
+testbot3001 shows 4s Kd (Pair)
+playerBot3000 wins the pot (4)
+
+Hand #72
+Seat 1 (Button): testbot3001 -52
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 70
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jd 9c]
+Dealt to playerBot3000 [3c 3d]
+Dealt to testbot3001 [Ad 3h]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #73
+Seat 1 (Button): playerBot3000 70
+Seat 2 (SB): testbot3001 -53
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [4s 6h]
+Dealt to testbot3002 [9h 2s]
+Dealt to playerBot3000 [2h 7d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #74
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 72
+Seat 3 (BB): testbot3001 -55
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Ks 8c]
+Dealt to testbot3001 [2h Js]
+Dealt to testbot3002 [3d 3s]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #75
+Seat 1 (Button): testbot3001 -55
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 73
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [2h Ah]
+Dealt to playerBot3000 [6c 5s]
+Dealt to testbot3001 [Td 5d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #76
+Seat 1 (Button): playerBot3000 73
+Seat 2 (SB): testbot3001 -56
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [8s Jc]
+Dealt to testbot3002 [Js Ac]
+Dealt to playerBot3000 [8c Qh]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #77
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 71
+Seat 3 (BB): testbot3001 -54
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [8s 5c]
+Dealt to testbot3001 [Jh Ts]
+Dealt to testbot3002 [8d Qd]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [2c Ah Jc]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [2c Ah Jc] [5d]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [2c Ah Jc 5d] [3s]
+playerBot3000 checks
+testbot3001 checks
+playerBot3000 shows 8s 5c (Pair)
+testbot3001 shows Jh Ts (Pair)
+testbot3001 wins the pot (4)
+
+Hand #78
+Seat 1 (Button): testbot3001 -54
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 72
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [2d 3d]
+Dealt to playerBot3000 [Kh 6h]
+Dealt to testbot3001 [Ts 7d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #79
+Seat 1 (Button): playerBot3000 72
+Seat 2 (SB): testbot3001 -55
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Qh Ac]
+Dealt to testbot3002 [9c 8d]
+Dealt to playerBot3000 [5h 2c]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #80
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 74
+Seat 3 (BB): testbot3001 -57
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [9h Ks]
+Dealt to testbot3001 [Jc Ts]
+Dealt to testbot3002 [5s Kh]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #81
+Seat 1 (Button): testbot3001 -57
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 75
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Qd 5h]
+Dealt to playerBot3000 [2d 6d]
+Dealt to testbot3001 [6s Jh]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #82
+Seat 1 (Button): playerBot3000 75
+Seat 2 (SB): testbot3001 -58
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [4c 3d]
+Dealt to testbot3002 [Ac 9d]
+Dealt to playerBot3000 [Jh 4s]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #83
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 77
+Seat 3 (BB): testbot3001 -60
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [As 7s]
+Dealt to testbot3001 [Ks 4c]
+Dealt to testbot3002 [Ad 5s]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #84
+Seat 1 (Button): testbot3001 -60
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 78
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [9h 3c]
+Dealt to playerBot3000 [6c 6d]
+Dealt to testbot3001 [5h Jh]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #85
+Seat 1 (Button): playerBot3000 78
+Seat 2 (SB): testbot3001 -61
+Seat 3 (BB): testbot3002 -17
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Ac 4h]
+Dealt to testbot3002 [Qh 9h]
+Dealt to playerBot3000 [5h Jd]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #86
+Seat 1 (Button): testbot3002 -17
+Seat 2 (SB): playerBot3000 80
+Seat 3 (BB): testbot3001 -63
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Td 9d]
+Dealt to testbot3001 [6s 9s]
+Dealt to testbot3002 [As 4s]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #87
+Seat 1 (Button): testbot3001 -63
+Seat 2 (SB): testbot3002 -18
+Seat 3 (BB): playerBot3000 81
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [7s Ac]
+Dealt to playerBot3000 [Kd 7h]
+Dealt to testbot3001 [2c Td]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #88
+Seat 1 (Button): playerBot3000 79
+Seat 2 (SB): testbot3001 -64
+Seat 3 (BB): testbot3002 -15
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [6c 6h]
+Dealt to testbot3002 [7h Jd]
+Dealt to playerBot3000 [5d 5c]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [3h Ts Kc]
+testbot3002 checks
+playerBot3000 checks
+*** TURN *** [3h Ts Kc] [7d]
+testbot3002 checks
+playerBot3000 checks
+*** RIVER *** [3h Ts Kc 7d] [Ac]
+testbot3002 checks
+playerBot3000 checks
+playerBot3000 shows 5d 5c (Pair)
+testbot3002 shows 7h Jd (Pair)
+testbot3002 wins the pot (5)
+
+Hand #89
+Seat 1 (Button): testbot3002 -15
+Seat 2 (SB): playerBot3000 81
+Seat 3 (BB): testbot3001 -66
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [7h As]
+Dealt to testbot3001 [3c Tc]
+Dealt to testbot3002 [2c Td]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #90
+Seat 1 (Button): testbot3001 -66
+Seat 2 (SB): testbot3002 -16
+Seat 3 (BB): playerBot3000 82
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [2d Th]
+Dealt to playerBot3000 [5h 6s]
+Dealt to testbot3001 [2s Kc]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #91
+Seat 1 (Button): playerBot3000 85
+Seat 2 (SB): testbot3001 -67
+Seat 3 (BB): testbot3002 -18
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [3c Qd]
+Dealt to testbot3002 [Ah 5h]
+Dealt to playerBot3000 [Kh Jd]
+playerBot3000 calls
+testbot3001 folds
+testbot3002 checks
+*** FLOP *** [Js 3s 9s]
+testbot3002 checks
+playerBot3000 checks
+*** TURN *** [Js 3s 9s] [Tc]
+testbot3002 checks
+playerBot3000 bets 2
+testbot3002 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #92
+Seat 1 (Button): testbot3002 -18
+Seat 2 (SB): playerBot3000 87
+Seat 3 (BB): testbot3001 -69
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [6s 5d]
+Dealt to testbot3001 [4h 3h]
+Dealt to testbot3002 [Qd Ah]
+testbot3002 folds
+playerBot3000 calls
+testbot3001 checks
+*** FLOP *** [9h 9d Kd]
+playerBot3000 checks
+testbot3001 checks
+*** TURN *** [9h 9d Kd] [8c]
+playerBot3000 checks
+testbot3001 checks
+*** RIVER *** [9h 9d Kd 8c] [7h]
+playerBot3000 bets 16
+testbot3001 folds
+Uncalled bet of 16 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #93
+Seat 1 (Button): testbot3001 -69
+Seat 2 (SB): testbot3002 -19
+Seat 3 (BB): playerBot3000 88
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jd 8c]
+Dealt to playerBot3000 [7s Th]
+Dealt to testbot3001 [Ac 5s]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #94
+Seat 1 (Button): playerBot3000 88
+Seat 2 (SB): testbot3001 -70
+Seat 3 (BB): testbot3002 -18
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [9c As]
+Dealt to testbot3002 [6s 3h]
+Dealt to playerBot3000 [Js 8d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+
+Hand #95
+Seat 1 (Button): testbot3002 -18
+Seat 2 (SB): playerBot3000 90
+Seat 3 (BB): testbot3001 -72
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [2h Ac]
+Dealt to testbot3001 [3d Kd]
+Dealt to testbot3002 [Qh 6d]
+testbot3002 folds
+playerBot3000 raises to 4
+testbot3001 folds
+Uncalled bet of 2 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #96
+Seat 1 (Button): testbot3001 -72
+Seat 2 (SB): testbot3002 -19
+Seat 3 (BB): playerBot3000 91
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Kh 6s]
+Dealt to playerBot3000 [Th 7d]
+Dealt to testbot3001 [Ac 5d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #97
+Seat 1 (Button): playerBot3000 94
+Seat 2 (SB): testbot3001 -73
+Seat 3 (BB): testbot3002 -21
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [3h Ks]
+Dealt to testbot3002 [4s 9c]
+Dealt to playerBot3000 [Ad As]
+playerBot3000 raises to 7
+testbot3001 folds
+testbot3002 folds
+Uncalled bet of 5 returned to playerBot3000
+playerBot3000 wins the pot (5)
+
+Hand #98
+Seat 1 (Button): testbot3002 -21
+Seat 2 (SB): playerBot3000 96
+Seat 3 (BB): testbot3001 -75
+playerBot3000 posts the blind of 1
+testbot3001 posts the blind of 2
+Dealt to playerBot3000 [Qh Tc]
+Dealt to testbot3001 [9c 6h]
+Dealt to testbot3002 [6s 6c]
+testbot3002 folds
+playerBot3000 raises to 5
+testbot3001 folds
+Uncalled bet of 3 returned to playerBot3000
+playerBot3000 wins the pot (4)
+
+Hand #99
+Seat 1 (Button): testbot3001 -75
+Seat 2 (SB): testbot3002 -22
+Seat 3 (BB): playerBot3000 97
+testbot3002 posts the blind of 1
+playerBot3000 posts the blind of 2
+Dealt to testbot3002 [Jh 2d]
+Dealt to playerBot3000 [9c Jc]
+Dealt to testbot3001 [6c 8d]
+testbot3001 folds
+testbot3002 folds
+playerBot3000 wins the pot (3)
+
+Hand #100
+Seat 1 (Button): playerBot3000 97
+Seat 2 (SB): testbot3001 -76
+Seat 3 (BB): testbot3002 -21
+testbot3001 posts the blind of 1
+testbot3002 posts the blind of 2
+Dealt to testbot3001 [Qs 8s]
+Dealt to testbot3002 [7h 8c]
+Dealt to playerBot3000 [Td 4d]
+playerBot3000 folds
+testbot3001 folds
+testbot3002 wins the pot (3)
+

@@ -1,0 +1,12 @@
+Poker Hands:	Probability:
+	
+Royal Flush 	
+Straight Flush 	0.0015%
+Four of a kind 	0.0240%
+Full House 	0.1441%
+Flush 	0.1960%
+Straight 	0.3900%
+Three of a Kind (Trips) 	2.1100%
+Two Pair 	4.7500%
+One Pair 	42.2600%
+High Card 	50.1100%
